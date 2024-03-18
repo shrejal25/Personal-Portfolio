@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: black;
+}
+
+.home {
+  background-color: #1a1a1a;
+}
+.navlist:hover {
+  border-bottom: 2px solid white;
+}
+
+.services {
+  background-color: #1a1a1a;
+}
+.fsize {
+  font-size: 35px;
+}
+
+.circle {
+  height: 60px;
+  width: 60px;
+  border: 2px solid white;
+  border-radius: 50%;
+  text-align: center;
+  color: blue;
+}
+.circle:hover {
+  background-color: white;
+}
+meter::-webkit-meter-optimum-value {
+  background: blue;
+}
+.cntct {
+  height: 30px;
+  width: 30px;
+}
+
+#mtr meter{
+    height: 11px;
+}
+#mtr p{
+    color: white;
+}
+#imgport img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+   
+
+}
+#img2 img{
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+   
+   
+}
+.profile img{
+    margin-top: 50px;
+    height: 320px;
+    width: 250px;
+    margin-left: 30px;
+    border: 2px solid blue;
+    padding:15px;
+    box-shadow:2px 2px 6px 6px blue;
+}
+.profile p{
+    margin-left:0px;
+
+}
+#webd{
+ margin-left: 86px;
+}
